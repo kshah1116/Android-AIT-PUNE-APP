@@ -18,7 +18,11 @@ Now comes the most awaited part **"LIFE OF AITIANS"**. This gives an overview of
 Next comes the fun part,**CLUBS**.This familiarize us with the boards, clubs and club secretaries.<br/>
 Now comes the informative part **SCHOLARSHIPS** which helps students to get instant information about every scholarship provided through AIT.<br/>
 The **RESEARCH** page gives Vision,Mission and the Objectives promoting the value of research.<br/>
-For honest reviews Aitians have to **LOGIN** using email provided by institute and submit their respective views in **REVIEW** page.<br/>
+For honest reviews Aitians have to **LOGIN** using email provided by institute.This section is  createded using navigation component. 
+If an aitian wants to give reviews and get access to notice he/she has to login with their official AIT email.ID
+On clicking the Notice Button, all the notices can be seen here. On clicking the first notice,The full information of the respective notice can been seen.
+![image](https://user-images.githubusercontent.com/94731988/148789502-2727204e-4c21-49f1-aec3-e3f75cddacfd.png)
+ and submit their respective views in **REVIEW** page.<br/>
 <br/>
 **App Icon**
 <br/>
