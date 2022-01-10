@@ -31,7 +31,8 @@ For honest reviews Aitians have to **LOGIN** using email provided by institute a
 <br/>
 <br/>
 
-![slide7](https://user-images.githubusercontent.com/94731988/148588607-21e9800c-b0f1-4dc5-b373-0be12982edb3.jpg)
+
+![Screenshot 2022-01-10 202356](https://user-images.githubusercontent.com/94731975/148786444-fcfbcd9d-65b5-4ea3-aa87-6404d4137cbc.png)
 
 
 
