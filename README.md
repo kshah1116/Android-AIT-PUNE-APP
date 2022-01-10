@@ -21,7 +21,7 @@ The **RESEARCH** page gives Vision,Mission and the Objectives promoting the valu
 For honest reviews Aitians have to **LOGIN** using email provided by institute.This section is  createded using navigation component. 
 If an aitian wants to give reviews and get access to notice he/she has to login with their official AIT email.ID
 On clicking the Notice Button, all the notices can be seen here. On clicking the first notice,The full information of the respective notice can been seen.
-![image](https://user-images.githubusercontent.com/94731988/148789502-2727204e-4c21-49f1-aec3-e3f75cddacfd.png)
+
  and submit their respective views in **REVIEW** page.<br/>
 <br/>
 **App Icon**
