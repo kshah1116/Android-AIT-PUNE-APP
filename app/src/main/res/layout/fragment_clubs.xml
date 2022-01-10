@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".clubs"
+    android:background="@drawable/gradient_background">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="20dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+                <!--            technical board-->
+                <ImageView
+
+                    android:layout_width="400dp"
+                    android:layout_height="350dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/technical_board">
+
+                </ImageView>
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TECHNICAL BOARD"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="15dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Staff in Charge: Dr PB Karandikar-ETC (OIC)"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="293dp">
+
+                </TextView>
+                <TextView
+                    android:id="@+id/club_secretary"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Secretary:Arun(TE IT),Riya(TE IT)"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="310dp">
+
+                </TextView>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="20dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+                <!--            CULTURAL BOARD-->
+                <ImageView
+
+                    android:layout_width="400dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/cultural_board"
+                    android:layout_gravity="center"
+                    >
+
+                </ImageView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="CULTURAL BOARD"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="15dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Staff in charge:Mr DG Auradkar, IT"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="293dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Secretary:Aarya Jha(TE ETC),Isha Tyagi(TE IT A)"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="310dp">
+
+                </TextView>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="20dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+                <!--          fine arts club  -->
+                <ImageView
+
+                    android:layout_width="400dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/fine_arts_club"
+                    android:layout_gravity="center"
+                    >
+
+                </ImageView>
+                <TextView
+                    android:id="@+id/club_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="FINE ARTS CLUB"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="15dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Staff in charge: Snehal Marathe"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="293dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Secretary:Manoj Kumar Rewar(TE IT),Katyani Singh(TE ETC)"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="310dp">
+
+                </TextView>
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="20dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+                <!--            SPORTS CLUB-->
+                <ImageView
+
+                    android:layout_width="400dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/sportsclub"
+                    android:layout_gravity="center"
+                    >
+
+                </ImageView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="SPORTS CLUB"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="15dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Staff in charge:Mrs Asha Sathe, Comp"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="293dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Secretary:Vishal Sharma(TE ETC),Nimmagadda Bhavana(TE Comp B)"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="310dp">
+
+                </TextView>
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="20dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+                <!--            SPIRITUAL CLUB-->
+                <ImageView
+
+                    android:layout_width="400dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/spiritualclub"
+                    android:layout_gravity="center"
+                    >
+
+                </ImageView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="SPIRITUAL CLUB"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="15dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Staff:Ms M Chandola, ASGE"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="293dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Secretary:Komal Kumari(TE Comp A),Manish Kumar(TE ETC)"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="310dp">
+
+                </TextView>
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="20dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+                <!--            OSS CLUB-->
+
+                <ImageView
+
+                    android:layout_width="400dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/ossclub"
+                    android:layout_gravity="center"
+                    >
+
+                </ImageView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="AIT OSS CLUB"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="15dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Staff in charge:Mr Anup Kadam, Comp"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="293dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Secretary:Rishabh Rathore(TE Comp B),Kumari Palak(TE Comp A)"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="310dp">
+
+                </TextView>
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="20dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+                <!--            GDSC AIT-->
+                <ImageView
+                    android:id="@+id/image_clubs"
+                    android:layout_width="400dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/gdsc"
+                    android:layout_gravity="center"
+                    >
+
+                </ImageView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="GDSC AIT"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="15dp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="GDSC LEAD: Shekhar Kumar"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="295dp">
+
+                </TextView>
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="20dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+
+                <!--            MATHS CLUB-->
+                <ImageView
+
+                    android:layout_width="400dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/mathsclub"
+                    android:layout_gravity="center"
+                    >
+
+                </ImageView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="MATHS CLUB"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="15dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Staff in charge:Dr Ganesh Mundhe"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="293dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Secretary:Rahul Kumar Yadav(TE IT,)C Khushi(TE ETC)"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="310dp">
+
+                </TextView>
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="20dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+                <!--            ddq-->
+                <ImageView
+
+                    android:layout_width="400dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/ddq"
+                    android:layout_gravity="center"
+                    >
+
+                </ImageView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="DDQ CLUB"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="15dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Staff in charge:Dr. Sanjiv M Sansgiri"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="293dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Secretary:Aanchal Gupta(TE Mech),Swapnil Sinha(TE Comp B)"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="310dp">
+
+                </TextView>
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="20dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+                <!--            NSS CLUB-->
+                <ImageView
+
+                    android:layout_width="400dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/nss"
+                    android:layout_gravity="center"
+                    >
+
+                </ImageView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="NSS CLUB"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="15dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Staff in charge:Mr S M Gaikwad"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="293dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Secretary: Nitish Kumar(TE E and TC)"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="310dp">
+
+                </TextView>
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="20dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+                <!--            MAGBOARD-->
+                <ImageView
+
+                    android:layout_width="400dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/magboard"
+                    android:layout_gravity="center"
+                    >
+
+                </ImageView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="MAGAZINE BOARD"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="15dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Staff in charge:Dr SM Sansgiri, Mech"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="295dp">
+
+                </TextView>
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Secretary:Vedangi Pathak(TE Mech),Navneet Das(TE Comp)"
+                    android:textSize="15sp"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:layout_marginTop="310dp">
+
+                </TextView>
+
+
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+
+
+
+
+
+
+    </ScrollView>
+
+</FrameLayout>

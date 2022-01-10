@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AIT Pune</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="History">The college was set up when Gen B.C. Joshi, PVSM AVSM, ADC (1935–1994), the then Chief of Army Staff of the Indian Army, saw the need for an engineering college for the children of all ranks of the Indian Army.\n His view was that children of army personnel were disadvantaged as far as education was concerned due to the direct consequence of soldiers serving under difficult conditions in remote areas where educational facilities are not always available. \nAdditionally, the regular movement of army personnel, potentially across the country, affects the continuity of education. \n AIT was formally inaugurated by Gen S.Roy Chaudhary PVSM, ADC on 24th Feb, 1995. \nThe first batch of students graduated in 1998. The succeeding batches continue to excel in all fields - be it sports, cultural or academics./nBeautiful campus, serene ambience and architectural splendor,state of the art infrastructure, all provide vital ingredients for a delectable academic environment for development of total quality engineers. And this tradition of excellence continues with every new batch coming to the Institution.</string>
+    <string name="Overview_Ait">Army Institute of Technology, Pune (AIT) is an undergraduate engineering college affiliated to the University of Pune. \nOnly wards of army personnel are allowed admission. \n\nAIT functions under the aegis of the Army Welfare Education Society (AWES) and has the senior most officer of the Indian Army, the Chief of Army Staff of the Indian Army (COAS), as the President of its Board of Governors.</string>
+    <string name="overview">Overview</string>
+    <string name="ait_front_gate">Ait Front Gate</string>
+    <string name="computer_engineering_department">Computer Engineering Department</string>
+    <string name="information_technology">Information Technology Department</string>
+    <string name="electronics_and_telecommunication_department">Electronics and Telecommunication Department</string>
+    <string name="mechanical_engineering_department">Mechanical Engineering Department</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="departments">Departments</string>
+
+    <string name="head_of_department_n_prof_dr_s_r_dhore">Head Of Department:\nProf.(Dr.) S R Dhore</string>
+    <string name="head_of_department_nprof_dr_sanjiv_manohar_sansgiri">Head Of Department:\nProf (Dr) Sanjiv Manohar Sansgiri</string>
+    <string name="head_of_department_ndr_mrs_sangeeta_jadhav">Head Of Department:\nDr.(Mrs)Sangeeta Jadhav</string>
+    <string name="login">Login</string>
+    <string name="title_activity_login">Login_activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="library">AIT has a well-stocked library having collection of books, national and international print journals and e-Resources.\nThe state-of-art air conditioned reading hall provided with wi-fi facility has a seating capacity of 150.\nThe Library maintains a separate reference collection consisting of encyclopedias, dictionaries, handbooks, data books, etc.\nIt has a digital section having audio/video resources, CDs, CBT and NPTEL videos.\nThis section also provides access to e- journals.\nLibrary is fully automated.</string>
+    <string name="sports">The College has a well equipped sports department.\nIn our college Multipurpose Hall for Indoor games i.e. Badminton Court, Squash Court, Table-Tennis, Carom board, Chess, Multi-Gym and Yoga.\nOne cemented Cricket pitches, one ground each for Football, Cricket and Volley ball ground, Two Basketball hard courts, one Tennis Hard court.\n\nThe Inter-Branches Tournaments are conducted in various games annually like AAKRITI and PACE sports and cultural event i.e. Sports facilities for indoor games are also being created in the Boys and Girls Hostels.</string>
+    <string name="hostel">In our college campus three boys hostel (OBH, NBH-1, NBH-2) and one girls hostel with homely environment and parental care.\nVarious recreational facilities comprise of TV (with Dish TV connection), indoor Pool table games and a well equipped gymnasium.\n\nEach floor is having one water-cooler with water-purifier to provide cold water to the residents in the summer season.\nReading material in the form of NEWS papers and magazines are available in the hostel.\n\nTo make the energy efficient students developed power saving and water saving project have been installed in the entire hostel premises.</string>
+    <string name="cafe">In addition to hostel messes, one cafeteria is there within the campus which is an open-air cafeteria next to the academic block.Menu includes North and South Indian, Chinese and Continental cuisine at reasonable rates.</string>
+    <string name="app_name2">VideoView in Kotlin</string>
+    <string name="heading_of_activity">Running a video file in an activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

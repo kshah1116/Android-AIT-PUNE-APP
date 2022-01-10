@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+
+    >
+    <group android:checkableBehavior="single">
+
+
+
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_baseline_home_24"
+            />
+        <item
+            android:id="@+id/nav_academics"
+            android:title="Academics"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/nav_life"
+            android:title="Life At AIT"
+            android:icon="@drawable/ic_baseline_ballot_24"/>
+        <item
+            android:id="@+id/nav_clubs"
+            android:title="Clubs"
+            android:icon="@drawable/ic_baseline_students_24"/>
+        <item
+            android:id="@+id/nav_scholarship"
+            android:title="Scholarship"
+            android:icon="@drawable/ic_baseline_placements_24"/>
+
+        <item
+            android:id="@+id/nav_research"
+            android:title="Research"
+            android:icon="@drawable/ic_baseline_about_24"/>
+
+
+
+
+
+
+    </group>
+
+
+
+
+
+</menu>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/home2">
+    <fragment
+        android:id="@+id/login"
+        android:name="com.example.appait.Login"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_login_to_afterLoginChoice"
+            app:destination="@id/afterLoginChoice" />
+    </fragment>
+    <fragment
+        android:id="@+id/review_ait2"
+        android:name="com.example.appait.review_ait"
+        android:label="fragment_review_ait"
+        tools:layout="@layout/fragment_review_ait" />
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.example.appait.home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_home2_to_login"
+            app:destination="@id/login" />
+    </fragment>
+    <fragment
+        android:id="@+id/afterLoginChoice"
+        android:name="com.example.appait.afterLoginChoice"
+        android:label="fragment_after_login_choice"
+        tools:layout="@layout/fragment_after_login_choice" >
+        <action
+            android:id="@+id/action_afterLoginChoice_to_notice"
+            app:destination="@id/notice" />
+        <action
+            android:id="@+id/action_afterLoginChoice_to_review_ait2"
+            app:destination="@id/review_ait2" />
+    </fragment>
+    <fragment
+        android:id="@+id/notice"
+        android:name="com.example.appait.Notice"
+        android:label="fragment_notice"
+        tools:layout="@layout/fragment_notice" >
+        <action
+            android:id="@+id/action_notice_to_noticeOne"
+            app:destination="@id/noticeOne" />
+        <action
+            android:id="@+id/action_notice_to_noticeTwo"
+            app:destination="@id/noticeTwo" />
+        <action
+            android:id="@+id/action_notice_to_noticeThree"
+            app:destination="@id/noticeThree" />
+    </fragment>
+    <fragment
+        android:id="@+id/noticeOne"
+        android:name="com.example.appait.noticeOne"
+        android:label="fragment_notice_one"
+        tools:layout="@layout/fragment_notice_one" />
+    <fragment
+        android:id="@+id/noticeTwo"
+        android:name="com.example.appait.noticeTwo"
+        android:label="fragment_notice_two"
+        tools:layout="@layout/fragment_notice_two" />
+    <fragment
+        android:id="@+id/noticeThree"
+        android:name="com.example.appait.noticeThree"
+        android:label="fragment_notice_three"
+        tools:layout="@layout/fragment_notice_three" />
+
+</navigation>
