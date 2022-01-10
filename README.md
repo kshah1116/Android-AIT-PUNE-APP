@@ -33,6 +33,7 @@ On clicking the Notice Button, all the notices can be seen here. On clicking the
 
 <br/>**Navigation**
 <br/>
+Black-Dark Mode and Pink-Light Mode.
 <br/>
 
 ![Screenshot 2022-01-10 202756](https://user-images.githubusercontent.com/94731975/148787082-34abf170-aa04-4f54-89e0-0150dafd817c.png)
@@ -44,10 +45,12 @@ On clicking the Notice Button, all the notices can be seen here. On clicking the
 
 **Home/Main Page**
 <br/>
+In Light Mode
 <br/>
 
 ![Screenshot 2022-01-10 202356](https://user-images.githubusercontent.com/94731975/148786444-fcfbcd9d-65b5-4ea3-aa87-6404d4137cbc.png)
 <br/>
+In Light Mode
 <br/>
 
 **LOGIN**
@@ -60,7 +63,9 @@ On clicking the Notice Button, all the notices can be seen here. On clicking the
 <br/>
 
 **NOTICES AND REVIEW**
-
+<br/>
+In Light Mode
+<br/>
 <br/>
 
 ![Screenshot 2022-01-10 201241](https://user-images.githubusercontent.com/94731975/148784507-7432e5e2-024c-4561-8ece-da5918cf3767.png)
@@ -71,6 +76,9 @@ On clicking the Notice Button, all the notices can be seen here. On clicking the
 <br/>
 
 **ACADEMICS**
+<br/>
+In Dark Mode
+<br/>
 
 <br/>
 
@@ -79,8 +87,9 @@ On clicking the Notice Button, all the notices can be seen here. On clicking the
 <br/>
 
 **Life At AIT**
-
-
+<br/>
+In Dark Mode
+<br/>
 Horizontal Scroll View in sports,hostel and cafeteria picture for sliding pictures.
 <br/>
 
@@ -94,11 +103,17 @@ Horizontal Scroll View in sports,hostel and cafeteria picture for sliding pictur
 
 **CLUBS**<br/>
 <br/>
+In Light Mode
+<br/>
+<br/>
 ![2022-01-07 (2)_2](https://user-images.githubusercontent.com/94731975/148581410-012dcf0f-f2c3-4061-88f8-d58a272880e4.png)
 <br/>
 
 
 <br/>**SCHOLARSHIP**
+<br/>
+<br/>
+In Light Mode
 <br/>
 ![scholarship ](https://user-images.githubusercontent.com/94731975/148778219-6e01fa5f-4446-44ce-98e2-ceddd345e274.png)
 <br/>
@@ -109,6 +124,9 @@ Horizontal Scroll View in sports,hostel and cafeteria picture for sliding pictur
 
 
 <br/>**RESEARCH**
+<br/>
+<br/>
+In Light Mode
 <br/>
 <br/>![Screenshot 2022-01-10 193713](https://user-images.githubusercontent.com/94731975/148779634-5ace3f6d-adc3-48c6-98e6-f52e58b33c57.png)
 
