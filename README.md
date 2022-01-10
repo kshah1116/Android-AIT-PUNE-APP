@@ -79,7 +79,10 @@ Horizontal Scroll View in sports,hostel and cafeteria picture for sliding pictur
 
 <br/>
 <br/>
-<br/>**NOTICES AND REVIEW**
+<br/>
+
+**NOTICES AND REVIEW**
+
 <br/>
 
 ![Screenshot 2022-01-10 201241](https://user-images.githubusercontent.com/94731975/148784507-7432e5e2-024c-4561-8ece-da5918cf3767.png)
