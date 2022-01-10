@@ -65,16 +65,18 @@ For honest reviews Aitians have to **LOGIN** using email provided by institute a
 <br/>
 
 <br/>
-<br/>**ACADEMICS**
+
+**ACADEMICS**
+
 <br/>
-<br/>
+
 ![Slide2](https://user-images.githubusercontent.com/94731988/148584174-ad85c5d4-e643-43ac-bbc4-695ef6de2685.JPG)
 
 <br/>
 
 **Life At AIT**
 
-<br/>
+
 Horizontal Scroll View in sports,hostel and cafeteria picture for sliding pictures.
 <br/>
 
