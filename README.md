@@ -67,7 +67,7 @@ For honest reviews Aitians have to **LOGIN** using email provided by institute a
 <br/>
 <br/>**ACADEMICS**
 <br/>
-
+<br/>
 ![Slide2](https://user-images.githubusercontent.com/94731988/148584174-ad85c5d4-e643-43ac-bbc4-695ef6de2685.JPG)
 
 <br/>
@@ -110,6 +110,7 @@ Horizontal Scroll View in sports,hostel and cafeteria picture for sliding pictur
 <br/>
 <br/>
 <br/>**Functionality & Concepts used :**
+<br/>
 Our App has a very soothing and attractive design, is simple and interactive too which makes our app user friendly.Our aim was to provide simplicity at its best so that students can easily gather the required knowledge.
 <br/>
 Following are few android concepts used to achieve the functionalities in app :
@@ -133,6 +134,7 @@ Following are few android concepts used to achieve the functionalities in app :
 🟣Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for students to register or sign in without providing any detailed instructions pages.
 <br/>
 <br/>**Application Link & Future Scope :**
+<br/>
 The app is currently in the Alpha testing phase with a limited no. of users, You can access the app : https://github.com/kshah1116/AIT-Pune-Application.git
 <br/>
 Our Future scopes include: Linking the Login Page and the review submission page so that only AITians having proper Email can give there honest reviews.Also create a screen to display these reviews.We also would like to add a to do list and creating link between the scholarship buttons and pdf's of respective scholarship so that students can access this easily.
