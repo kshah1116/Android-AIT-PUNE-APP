@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".research"
+    android:background="@drawable/gradient_background">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/purple_200"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true"
+            android:layout_gravity="center_horizontal">
+
+            <TextView
+
+                android:layout_width="400dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="5dp"
+                android:padding="5dp"
+                android:text="Research and Development Cell"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="23sp"
+                android:textStyle="bold"
+                android:layout_gravity="center">
+
+            </TextView>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            app:cardBackgroundColor="@color/purple_200"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true"
+            >
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ait_onward_to_glory">
+
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/purple_200"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true">
+
+            <TextView
+
+                android:layout_width="400dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:text="VISION"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:layout_gravity="center">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="To become a globally renowned technical Institute to promote research in newly emerging frontiers of science and technology including multidisciplinary domains."
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:textAlignment="center"
+                android:layout_marginTop="60dp">
+
+            </TextView>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/purple_200"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true">
+
+            <TextView
+
+                android:layout_width="400dp"
+                android:layout_height="275dp"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:text="MISSION"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold">
+
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1] To promote multidisciplinary academic and industry-oriented research."
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                android:layout_marginTop="50dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2] To promote research activities of students and faculty."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_marginTop="90dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3] To enable knowledge creation and technology transfer through collaboration with R and D Institutes and industries."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_marginTop="130dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="4] To promote the growth of the Nation’s R and D ecosystem by contributing in diverse areas."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_marginTop="190dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/purple_200"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            app:cardMaxElevation="20dp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true">
+
+            <TextView
+
+                android:layout_width="400dp"
+                android:layout_height="475dp"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:text="OBJECTIVES"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold">
+
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1] To create good infrastructural facilities and a conducive environment to inculcate research culture."
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                android:layout_marginTop="50dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2] To inculcate the value of research in minds of students and promote and develop innovative ideas."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_marginTop="110dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3] To promote research publications in refereed national and international journals and conferences."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_marginTop="170dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="4] To promote sponsored research and consultancy by collaborating with industries."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_marginTop="230dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="5] To encourage the filing of IPR and consultancy work."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_marginTop="270dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="6] To organize seminars/workshops/ value-added courses related to the promotion of research."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_marginTop="310dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="7] To create awareness of filing IPRs."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_marginTop="370dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="8] To submit proposals to funding agencies, monitoring of funding projects."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_marginTop="390dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="9] To provide consultancy services for projects."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:layout_marginTop="430dp"
+                android:textStyle="bold"
+                android:padding="15dp">
+
+            </TextView>
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+</ScrollView>
