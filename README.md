@@ -64,7 +64,8 @@ For honest reviews Aitians have to **LOGIN** using email provided by institute a
 
 <br/>
 <br/>
-**Academics**
+
+**ACADEMICS **
 
 <br/>
 
@@ -77,7 +78,10 @@ For honest reviews Aitians have to **LOGIN** using email provided by institute a
 <br/>
 Horizontal Scroll View in sports,hostel and cafeteria picture for sliding pictures.
 <br/>
+
 ![Slide3](https://user-images.githubusercontent.com/94731988/148585129-32dc272b-a9e2-431c-b5cc-0133453a9014.JPG)
+
+
 <br/>
 <br/>
 
