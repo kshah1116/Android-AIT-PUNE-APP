@@ -31,8 +31,8 @@ For honest reviews Aitians have to **LOGIN** using email provided by institute a
 <br/>
 <br/>
 
+![Screenshot 2022-01-10 202756](https://user-images.githubusercontent.com/94731975/148787082-34abf170-aa04-4f54-89e0-0150dafd817c.png)
 
-![Screenshot 2022-01-10 202356](https://user-images.githubusercontent.com/94731975/148786444-fcfbcd9d-65b5-4ea3-aa87-6404d4137cbc.png)
 
 
 
@@ -41,7 +41,8 @@ For honest reviews Aitians have to **LOGIN** using email provided by institute a
 **Home/Main Page**
 <br/>
 <br/>
-![Slide1](https://user-images.githubusercontent.com/94731988/148581553-0dc7809f-8f29-4ea7-84d5-c8215d814d37.JPG )
+
+![Screenshot 2022-01-10 202356](https://user-images.githubusercontent.com/94731975/148786444-fcfbcd9d-65b5-4ea3-aa87-6404d4137cbc.png)
 <br/>
 <br/>
 **Academics**
