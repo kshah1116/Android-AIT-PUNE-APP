@@ -45,6 +45,25 @@ For honest reviews Aitians have to **LOGIN** using email provided by institute a
 ![Screenshot 2022-01-10 202356](https://user-images.githubusercontent.com/94731975/148786444-fcfbcd9d-65b5-4ea3-aa87-6404d4137cbc.png)
 <br/>
 <br/>
+
+**LOGIN**
+
+![Screenshot 2022-01-10 200153](https://user-images.githubusercontent.com/94731975/148782875-54db9c57-3cea-4c77-a7be-dd2db9f91a7c.png)
+
+
+<br/>
+<br/>
+<br/>
+
+**NOTICES AND REVIEW**
+
+<br/>
+
+![Screenshot 2022-01-10 201241](https://user-images.githubusercontent.com/94731975/148784507-7432e5e2-024c-4561-8ece-da5918cf3767.png)
+
+
+<br/>
+<br/>
 **Academics**
 <br/>
 <br/>
@@ -72,25 +91,7 @@ Horizontal Scroll View in sports,hostel and cafeteria picture for sliding pictur
 ![scholarship ](https://user-images.githubusercontent.com/94731975/148778219-6e01fa5f-4446-44ce-98e2-ceddd345e274.png)
 <br/>
 
-<br/>
 
-**Academics**
-
-![Screenshot 2022-01-10 200153](https://user-images.githubusercontent.com/94731975/148782875-54db9c57-3cea-4c77-a7be-dd2db9f91a7c.png)
-
-
-<br/>
-<br/>
-<br/>
-
-**NOTICES AND REVIEW**
-
-<br/>
-
-![Screenshot 2022-01-10 201241](https://user-images.githubusercontent.com/94731975/148784507-7432e5e2-024c-4561-8ece-da5918cf3767.png)
-
-
-<br/>
 <br/>
 
 
