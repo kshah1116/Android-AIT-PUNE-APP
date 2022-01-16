@@ -159,7 +159,7 @@ Following are few android concepts used to achieve the functionalities in app :
 <br/>
 <br/>**Application Link & Future Scope :**
 <br/>
-The app is currently in the Alpha testing phase with a limited no. of users, You can access the app : https://github.com/kshah1116/AIT-Pune-Application.git
+The app is currently in the Alpha testing phase with a limited no. of users, You can access the app :https://github.com/kshah1116/Android-AIT-PUNE-APP.git
 <br/>
 Our Future scopes include: Linking the Login Page and the review submission page so that only AITians having proper Email can give there honest reviews.Also create a screen to display these reviews.We also would like to add a to do list and creating link between the scholarship buttons and pdf's of respective scholarship so that students can access this easily.
 
